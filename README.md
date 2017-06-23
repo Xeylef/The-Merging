@@ -3,7 +3,7 @@ CTF game project
 
 ALRIGHT! Welcome to the github! 
 
-Here is the plan. I have had numerous offers of help for the game. However scenes can be.... tricky to write as every scene is highly variable and modular. Unlike games such as CoC TiTs or even Flexible survival.
+Here is the plan. I have had numerous offers of help for the game. However scenes can be.... tricky to write as every scene is highly variable and modular.
 
 
 SO THIS IS THE PLAN! PROMPTS!
